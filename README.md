@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @krazycodeload
+- 👀 I’m interested in App development using flutter,React native, Android native & swiftui
+- 🌱 I’m currently learning React Native,flutter,swiftui,python,nodejs & go
+- 💞️ I’m looking to collaborate with other content creators
+- 📫 How to reach me : by mail(i.e.,kaushalkishore80927@gmail.com) or linkedin: https://www.linkedin.com/in/kaushal-kishore-%EF%A3%BF-96910758/
+- 😄 Pronouns: kaushal kishore
+- ⚡ Fun fact: I love to roaming over the hills, listening musics & exploring many more
